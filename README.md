@@ -1,6 +1,3 @@
-Here’s a clean, **GitHub-ready `README.md`** for your project. You can copy-paste this directly into your repository 👇
-
----
 
 # 🧠 Page Replacement Algorithm Visualizer (FIFO, LRU, Optimal)
 
@@ -146,12 +143,3 @@ Feel free to fork and submit a pull request.
 This project is open-source and available under the **MIT License**.
 
 ---
-
-If you want, I can also:
-
-* ✨ Shorten this for a **college submission**
-* 📸 Add **screenshots section**
-* 🏷️ Write a **project description for resume**
-* 🧾 Create a **report / documentation PDF**
-
-Just tell me 👍
